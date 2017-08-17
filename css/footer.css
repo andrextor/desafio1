@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+  padding: 0;
+  display: flex;
+  min-height: 100vh;
+flex-wrap: wrap;
+}
+
+footer{
+    /*justify-content: flex-end;*/
+    align-self: flex-end;
+    background: grey;
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+}
+.R{
+
+    width: 100%;
+    background: YELLOW;
+    text-align: center;
+  }
